@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #877;
+}
+
+h2 {
+    color: #655;
+}
+
+span.institution, span.place {
+    color: darkblue;
+}
+
+p#thanks {
+    text-align: center;
+}
