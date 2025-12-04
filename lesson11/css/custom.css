@@ -1,0 +1,59 @@
+caption {
+  caption-side: top;
+}
+
+.table-dark {
+  --bs-table-bg: #0d6efd;
+}
+
+.special-blue {
+  color: #0d6efd;
+}
+
+.red {
+  color: #f00;
+}
+
+.orange {
+  color: #fa0;
+}
+
+.yellow {
+  color: #ff0;
+}
+
+.green {
+  color: #0f0;
+}
+
+.cyan {
+  color: #0ff;
+}
+
+.blue {
+  color: #00f;
+}
+
+.purple {
+  color: #a0f;
+}
+
+.magenta {
+  color: #f0f;
+}
+
+@media (max-width: 768px) {
+  section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+/* Image animation */
+img {
+  opacity: 50%;
+  transition: 0.75s cubic-bezier(0.36, 0.24, 0.09, 0.97);
+}
+
+img:hover {
+  opacity: 100%;
+}/*# sourceMappingURL=custom.css.map */
