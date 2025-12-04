@@ -1,5 +1,5 @@
 img {
-    width: 40vw;
+    width: 30vw;
     float: left;
-    shape-outside: polygon();
+    shape-outside: polygon(0% 0%, 87% 5%, 87% 17%, 92% 20%, 90% 40%, 90% 60%, 97% 80%, 97% 90%, 80% 95%);
 }
